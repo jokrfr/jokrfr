@@ -1,7 +1,7 @@
 ### Hi there, I'm [JOKR](https://Jokr.github.io) 👋
 
 
-Hi, I'm Anurag Hazra, a passionate self-taught frontEnd web developer from India.
+Hi, I'm JOKR, a passionate developer from France.
 
 - 🔭 I’m currently working on [Core](https://github.com/jokrfr/Pz_core_JOKERSIDE)
 - 🌱 I’m currently learning [RageUI](https://github.com/iTexZoz/RageUI)
