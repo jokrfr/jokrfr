@@ -24,7 +24,7 @@ Hi, I'm Anurag Hazra, a passionate self-taught frontEnd web developer from India
 ##**DESIGN**
 
 ![PHOTOSHOP](https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-
+![Adobe](https://img.shields.io/badge/adobe%20-%23FF0000.svg?&style=for-the-badge&logo=adobe&logoColor=white)
 <!--- 
   if you have forked this to use on your profile, 
   Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app` 
@@ -37,3 +37,4 @@ Hi, I'm Anurag Hazra, a passionate self-taught frontEnd web developer from India
 <a href="https://github.com/jokrfr/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=jokrfr&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Joker github stats" />
 </a>
+	<img alt="Adobe" src="https://img.shields.io/badge/adobe%20-%23FF0000.svg?&style=for-the-badge&logo=adobe&logoColor=white"/>
