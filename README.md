@@ -1,4 +1,4 @@
-### Hi there, I'm [JOKR](https://Jokr.github.io) 👋
+### **Hi there, I'm [JOKR](https://Jokr.github.io) 👋***
 
 
 Hi, I'm JOKR, a passionate developer from France.
@@ -8,7 +8,7 @@ Hi, I'm JOKR, a passionate developer from France.
 - 👯 I’m looking to collaborate on [Github Readme Stats](https://github.com/jokerfr/github-readme-stats)
 - 💬 Fun fact: I have 229 years old , im a snails
 
-##**Languages and Tools:**  
+## **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png"></code>
@@ -19,7 +19,7 @@ Hi, I'm JOKR, a passionate developer from France.
 
 
 
-##**Framework**
+## **Framework**
 
 ![JOKR_CORE](https://img.shields.io/badge/jokrcore%20-%23000000.svg?&style=for-the-badge&logo=symfony&logoColor=white)
 ![JOKR_CORE](https://img.shields.io/badge/pz_core%20-%23000000.svg?&style=for-the-badge&logo=symfony&logoColor=white)
@@ -35,5 +35,5 @@ Hi, I'm JOKR, a passionate developer from France.
 <br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jokrfr)](https://github.com/jokrfr/github-readme-stats)
-(https://github.com/anuraghazra/github-readme-stats)
+
 
