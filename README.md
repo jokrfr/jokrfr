@@ -34,6 +34,6 @@ Hi, I'm JOKR, a passionate developer from France.
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jokrfr&count_private=true&show_icons=true?theme=buefy)
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M2GA)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jokrfr)](https://github.com/anuraghazra/github-readme-stats)
 
 
