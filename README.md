@@ -24,7 +24,7 @@ Hi, I'm JOKR, a passionate developer from France.
 ![JOKR_CORE](https://img.shields.io/badge/jokrcore%20-%23000000.svg?&style=for-the-badge&logo=symfony&logoColor=white)
 ![JOKR_CORE](https://img.shields.io/badge/pz_core%20-%23000000.svg?&style=for-the-badge&logo=symfony&logoColor=white)
 
-##**DESIGN**
+## **DESIGN**
 
 ![Adobe](https://img.shields.io/badge/adobe%20-%23FF0000.svg?&style=for-the-badge&logo=adobe&logoColor=white)
 ![PHOTOSHOP](https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
