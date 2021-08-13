@@ -22,7 +22,7 @@ Hi, I'm JOKR, a passionate developer from France.
 ## **Framework**
 
 ![JOKR_CORE](https://img.shields.io/badge/jokrcore%20-%23000000.svg?&style=for-the-badge&logo=symfony&logoColor=white)
-![JOKR_CORE](https://img.shields.io/badge/pz_core%20-%23000000.svg?&style=for-the-badge&logo=symfony&logoColor=white)
+![JOKR_CORE](https://img.shields.io/badge/LSV%20-%23000000.svg?&style=for-the-badge&logo=symfony&logoColor=white)
 
 ## **DESIGN**
 
