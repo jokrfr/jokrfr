@@ -21,7 +21,7 @@ Hi, I'm JOKR, a passionate developer from France.
 
 ## **Framework**
 
-![JOKR_CORE](https://img.shields.io/badge/LSV_Framework%20-%23000000.svg?&style=for-the-badge&logo=symfony&logoColor=white)
+![JOKR_CORE](https://img.shields.io/badge/LSV_Framework%20-%23000000.svg?&style=for-the-badge&logo=adobeadobe&logoColor=white)
 
 ## **Game mode**
 ![JOKR_CORE](https://img.shields.io/badge/lsv_koth%20-%23000000.svg?&style=for-the-badge&logo=adobeadobe&logoColor=white)
@@ -32,7 +32,7 @@ Hi, I'm JOKR, a passionate developer from France.
 
 ![Adobe](https://img.shields.io/badge/adobe%20-%23FF0000.svg?&style=for-the-badge&logo=adobe&logoColor=white)
 ![PHOTOSHOP](https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![PHOTOSHOP](https://img.shields.io/badge/adobe%20after_effect%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![PHOTOSHOP](https://img.shields.io/badge/adobe%20after_effect%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20aftereffect&logoColor=white)
 
 
 ![Jokr github stats](https://github-readme-stats.vercel.app/api?username=jokrfr&count_private=true&show_icons=true?theme=buefy)
