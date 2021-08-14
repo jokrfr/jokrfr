@@ -3,7 +3,8 @@
 
 Hi, I'm JOKR, a passionate developer from France.
 
-- 🔭 I’m currently working on [Core](https://github.com/jokrfr/Pz_core_JOKERSIDE)
+- 🔭 I’m currently working on [Framework](https://github.com/jokrfr/Pz_core_JOKERSIDE)
+- 🔭 I’m currently working on [Gamemode](https://github.com/jokrfr/Pz_core_JOKERSIDE)
 - 🌱 I’m currently learning [RageUI](https://github.com/iTexZoz/RageUI)
 - 👯 I’m looking to collaborate on [Github Readme Stats](https://github.com/jokerfr/github-readme-stats)
 - 💬 Fun fact: I have 229 years old , im a snails
