@@ -24,8 +24,8 @@ Hi, I'm JOKR, a passionate developer from France.
 ![JOKR_CORE](https://img.shields.io/badge/LSV_Framework%20-%23000000.svg?&style=for-the-badge&logo=symfony&logoColor=white)
 
 ## **Game mode**
-![JOKR_CORE](https://img.shields.io/badge/lsv_koth%20-%23000000.svg?&style=for-the-badge&logo=adobe&logoColor=white)
-![JOKR_CORE](https://img.shields.io/badge/LSV_rp%20-%23000000.svg?&style=for-the-badge&logo=adobe&logoColor=white)
+![JOKR_CORE](https://img.shields.io/badge/lsv_koth%20-%23000000.svg?&style=for-the-badge&logo=adobeadobe&logoColor=white)
+![JOKR_CORE](https://img.shields.io/badge/LSV_rp%20-%23000000.svg?&style=for-the-badge&logo=adobeadobe&logoColor=white)
 ![JOKR_CORE](https://img.shields.io/badge/LSV_Zombie%20-%23000000.svg?&style=for-the-badge&logo=adobeadobe&logoColor=white)
 
 ## **DESIGN**
